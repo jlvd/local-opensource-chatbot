@@ -1,0 +1,4 @@
+requests
+tkinter
+customtkinter
+matplotlib
